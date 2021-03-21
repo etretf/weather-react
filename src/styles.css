@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  font-family: "Open Sans", sans-serif;
+}
+
+.box {
+  display: block;
+  margin: 30px 50px 200px 100px;
+  background: white;
+  width: 800px;
+  border-radius: 10px;
+  padding: 10px 30px 30px;
+}
+
+.col-4 {
+  margin: 0 auto;
+}
