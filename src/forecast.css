@@ -1,0 +1,15 @@
+.card {
+  list-style-type: none;
+  text-align: center;
+  font-size: 14px;
+}
+
+.card-body {
+  text-align: center;
+  padding: 5px;
+  transition: all 200ms ease-in-out;
+}
+
+.card-body:hover {
+  background: #e8e8e8;
+}
